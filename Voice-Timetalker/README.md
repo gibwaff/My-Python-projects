@@ -1,5 +1,3 @@
-### README
-
 # Voice Recognition and Speech Synthesis Application
 
 This application is a simple Python-based program that uses the Vosk library for speech recognition and the pyttsx4 library for text-to-speech synthesis. It continuously listens for spoken commands and can respond with the current time when the command "time" is detected.
